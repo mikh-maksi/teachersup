@@ -6,4 +6,5 @@
 <a href = "https://docs.google.com/spreadsheets/d/1cXK6pjnWFdLLF2D-Mgd_ikZswvmonjwCirLJPhtpF-Q/edit#gid=0">Коллективная</a>
 
 ## Создание ценностного приложения
-<a href = "https://docs.google.com/document/d/1M0znnTOWtUT4jqkBfSQcc74cUPrnP5pFkG5B4LzRw0g/edit">Value Proposition Canva</a>
+<a href = "https://docs.google.com/document/d/1M0znnTOWtUT4jqkBfSQcc74cUPrnP5pFkG5B4LzRw0g/edit">Value Proposition Canvas</a>
+<a href = "https://esputnik.com/blog/chto-takoe-value-proposition-canvas">Value Proposition Canvas. Article</a>
