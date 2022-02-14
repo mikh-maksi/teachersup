@@ -42,11 +42,10 @@ https://iotji.io/solutions-ua/
 
 ### Типовой код
 
-
-* FrontEnd (Tilda)
+* [FrontEnd (Tilda)](https://github.com/mikh-maksi/teachersup/tree/main/product/lesson02/fe_tilda)
 * [FrontEnd (Создание сайта)](https://github.com/mikh-maksi/teachersup/tree/main/product/lesson02/fe)
-* Python (создание Телеграм-бота)
-* GameDev (C# - текстова игра)
+* [Python (создание Телеграм-бота)](https://github.com/mikh-maksi/teachersup/tree/main/product/lesson02/python)
+* [GameDev (C# - текстова игра)](https://github.com/mikh-maksi/teachersup/tree/main/product/lesson02/gamedev)
 * [Design](https://drive.google.com/file/d/1SnSrA2AePeEHeya12BoKhNv2lo9wWQsU/view)
 
 ## Планирование проекта. 
