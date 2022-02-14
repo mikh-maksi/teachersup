@@ -38,8 +38,16 @@ https://iotji.io/solutions-ua/
 |5|IoT| hhttps://code.visualstudio.com/ , https://www.jetbrains.com/ru-ru/pycharm-edu/ , https://www.python.org/downloads/ (Python)   |
 |6|Data Processing| https://code.visualstudio.com/ , https://www.jetbrains.com/ru-ru/pycharm-edu/ , https://www.python.org/downloads/ (Python)     |
 |7|Design| https://www.adobe.com/products/photoshop/free-trial-download.html , https://www.adobe.com/products/illustrator/free-trial-download.html , https://www.figma.com/ |
-<br>https://www.remove.bg/ru |
 
+
+### Типовой код
+
+
+* FrontEnd (Tilda)
+* [FrontEnd (Создание сайта)](https://github.com/mikh-maksi/teachersup/tree/main/product/lesson02/fe)
+* Python (создание Телеграм-бота)
+* GameDev (C# - текстова игра)
+* [Design](https://drive.google.com/file/d/1SnSrA2AePeEHeya12BoKhNv2lo9wWQsU/view)
 
 ## Планирование проекта. 
 ## Связь проекта с учебной программой. 
