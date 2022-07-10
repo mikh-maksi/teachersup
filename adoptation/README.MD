@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/1bjhHe3pu88XZMyh8qUj48S8WBAJrGDVI5Q9MSRHd
 
 <img src = "img/gameofteens.png">
 
-З такими проектами ви можете познайомитись на сайті https://gameofteens.goiteens.club/  http://gameofteens.goiteens.club/2020/  - це проекти студентів, які вони презентували на щорічний конкурс, що назвивається GameOfTeens.
+З такими проектами ви можете познайомитись на сайті <a href = "https://gameofteens.goiteens.club/" target = "_blank">https://gameofteens.goiteens.club/</a>  <a href = "http://gameofteens.goiteens.club/2020/" target = "_blank">http://gameofteens.goiteens.club/2020/</a>  - це проекти студентів, які вони презентували на щорічний конкурс, що назвивається GameOfTeens.
 
 Дуже важливим є те, коли викладач робить зі студентами такі проекти, які йому самому цікаві. Тому до старту курсу ми просимо вас визначитись із тим, який проект ви би хотіли зробити із вашими студентами (це може бути вже існуючий проект зі списку вже реалізованих, або реалізація вашої власної ідеї).
 
