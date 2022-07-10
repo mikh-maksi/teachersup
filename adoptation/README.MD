@@ -5,7 +5,7 @@
 ## Викладач - лідер
 Для того, щоб навчати лідерству викладач має бути лідером. Дуже важливий крок - визначити для себе те, чому ви викладаєте, що вас в цьому приваблює, а також - чому ви маєте право викладати: які досягнення та успіхи в житті ви вже маєте, на який успішний досвід сприаєтеся. В результаті - щоб ви могли надати про себе фотографію та опис власних досягнень і з цього був сформований слайд, який увійде до загального переліку викладачів GoITeens 
 <img src = "img/teachers.png">
-https://docs.google.com/presentation/d/1bjhHe3pu88XZMyh8qUj48S8WBAJrGDVI5Q9MSRHdFnY/edit#slide=id.p1
+<a href = "https://docs.google.com/presentation/d/1bjhHe3pu88XZMyh8qUj48S8WBAJrGDVI5Q9MSRHdFnY/edit#slide=id.p1" target = "_blank">Викладачі GoITeens</a>
 
 
 ## Проектний підхід
